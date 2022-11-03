@@ -26,10 +26,10 @@ export const Container = styled.div`
     li{
         list-style: none;
         margin-left: 60px;
-        margin-top: 50px;
+        margin-top: 70px;
         a{
             text-decoration: none;
-            color: white;
+            color: black;
 
             &:hover{
                 color: white;

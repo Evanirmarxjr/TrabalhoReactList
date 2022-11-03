@@ -31,12 +31,12 @@ export function Formulario() {
 
   return (
     <Container>
-      <h1 className="title">Deixe sua Opinião</h1>
+      <h1 className="title">Deixe seu comentário</h1>
       <Spacer />
       <Flex direction="row" justify>
         <input
           value={tarefa}
-          placeholder="sua Opnião"
+          placeholder="comentário"
           className="input"
           onChange={(e) => setTarefa(e.target.value)}
         ></input>

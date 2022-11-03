@@ -29,7 +29,7 @@ export const Container = styled.div`
     font-weight: 700;
     font-size: 16px;
     line-height: 24px;
-    color: #9a85d6;
+    color: black;
   }
 
   .input::placeholder {

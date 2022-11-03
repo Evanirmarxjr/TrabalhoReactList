@@ -14,7 +14,7 @@ export function Header() {
               <Link to="/Sobre">Início</Link>
             </li>
             <li>
-              <Link to="/Projetos">Projetos</Link>
+              <Link to="/Projetos">Comentários</Link>
             </li>
             <li>
           
